@@ -67,6 +67,6 @@ MIT License — free to use and modify.
 ✍️ Author
 
 Vaibhav Gautam
-LinkedIn
+(https://www.linkedin.com/in/vaibhav-gautam-a79418234/)
 vaibhavhautam1707@gmail.com
 
