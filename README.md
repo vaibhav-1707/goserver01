@@ -31,7 +31,7 @@ go-fileserver/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/go-fileserver.git
+git clone https://github.com/vaibhav-1707/goserver01
 cd go-fileserver
 
 2. Run the server
